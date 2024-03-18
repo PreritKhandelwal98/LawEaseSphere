@@ -80,37 +80,37 @@ export const products = [
 
     {
         id: "02",
-        productName: "Rivet Bigelow Modern ",
+        productName: "Proprietorship Firm Registration Services ",
         imgUrl: slider4,
         category: "sofa",
-        price: 253,
+        price: 10000,
         shortDesc:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+            "Registering your proprietorship firm offers several advantages, including simplicity, full control, and minimal compliance requirements. As the sole owner of the business, you enjoy complete autonomy in decision-making and operations, allowing you to steer your venture in the direction you desire.",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
-        reviews: [
-            {
-                rating: 4.8,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-            {
-                rating: 4.8,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-        ],
-        avgRating: 4.7,
+            "1. Consultation: Our knowledgeable consultants will guide you through the registration process, answering any questions you may have and offering valuable insights to help you make informed decisions.\n\n2. Documentation: We'll assist you in preparing and filing all necessary documents, including the proprietorship deed, PAN application, and other registration forms, ensuring compliance with legal requirements.\n\n3. Government Filings: Our dedicated team will handle all interactions with government authorities on your behalf, expediting the registration process and minimizing delays.\n\n4. GST Registration: If required, we'll help you obtain GST registration for your proprietorship firm, enabling seamless tax compliance and access to input tax credits.",
+        // reviews: [
+        //     {
+        //         rating: 4.8,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        //     {
+        //         rating: 4.8,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        // ],
+        // avgRating: 4.7,
     },
 
     {
         id: "03",
-        productName: "Amazon Brand Modern Sofa",
+        productName: "One Person Company (OPC) Registration Services",
         imgUrl: slider1,
         category: "sofa",
-        price: 173,
+        price: 20000,
         shortDesc:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+            "OPC registration offers several advantages, including limited liability protection, separate legal entity status, and enhanced credibility in the eyes of customers and stakeholders. It allows solo entrepreneurs to operate their businesses with confidence, knowing that their personal assets are safeguarded from business liabilities.",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+            "1. Consultation: Our experienced consultants will provide personalized guidance and advice tailored to your specific business needs, helping you understand the nuances of OPC registration and compliance requirements.\n\n2. 	Documentation: We'll assist you in preparing and filing all necessary documents, including the memorandum and articles of association, director identification number (DIN) application, and other registration forms, ensuring accuracy and compliance with legal requirements.\n\n3. 	Government Filings: Our dedicated team will handle all interactions with government authorities, including the Registrar of Companies (ROC), ensuring timely submission of documents and adherence to regulatory timelines.\n\n4. 	Compliance Assistance: We'll provide ongoing support and assistance to ensure that your OPC remains compliant with statutory requirements, including annual filings, board meetings, and other regulatory obligations.",
         reviews: [
             {
                 rating: 4.6,
@@ -124,37 +124,15 @@ export const products = [
         avgRating: 4.7,
     },
     {
-        id: "26",
-        productName: "Rivet Bigelow Modern ",
-        imgUrl: slider2,
-        category: "sofa",
-        price: 253,
-        shortDesc:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
-        description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
-        reviews: [
-            {
-                rating: 4.8,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-            {
-                rating: 4.8,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-        ],
-        avgRating: 4.7,
-    },
-    {
         id: "04",
-        productName: "Fllufy Sheep Sofa",
+        productName: "Private Company Registration Services: ",
         imgUrl: slider3,
         category: "sofa",
-        price: 163,
+        price: 12000,
         shortDesc:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+            "Private company registration offers numerous advantages, including limited liability protection, separate legal entity status, and greater access to capital and resources. It allows entrepreneurs to conduct business with confidence, knowing that their personal assets are shielded from company liabilities and obligations.",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+            "1. Consultation: Our experienced consultants will work closely with you to understand your business objectives and tailor our services to meet your specific needs. We'll provide expert guidance on company structure, compliance requirements, and strategic planning to ensure a successful registration process.\n\n2. 	Documentation: We'll assist you in preparing and filing all necessary documents for private company registration, including Shop act registration (optional), GST registration (optional), EPS and EPFO registration and incorporation forms. Our meticulous attention to detail ensures accuracy and compliance with regulatory standards.\n\n3. 	Government Filings: Our dedicated team will handle all interactions with government authorities, including the Registrar of Companies (ROC), ensuring timely submission of documents and adherence to regulatory deadlines. We'll keep you informed throughout the registration process, providing regular updates and guidance as needed.\n\n4. 	Compliance Support: We'll provide ongoing support and assistance to ensure that your private company remains compliant with statutory requirements, including annual filings, board meetings, and other corporate governance obligations. Our proactive approach helps mitigate risks and safeguard your company's reputation and credibility.",
         reviews: [
             {
                 rating: 4.6,
@@ -170,37 +148,37 @@ export const products = [
 
     {
         id: "05",
-        productName: "Faux Velvet Sofa",
+        productName: "Public Company Registration Services",
         imgUrl: slider4,
         category: "sofa",
         price: 163,
         shortDesc:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+            "Public company registration offers numerous benefits, including access to a broader investor base, enhanced liquidity for shareholders, and increased visibility and credibility in the marketplace. It allows businesses to raise capital more easily and pursue strategic opportunities for growth and expansion.",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
-        reviews: [
-            {
-                rating: 4.6,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-            {
-                rating: 4.9,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-        ],
-        avgRating: 4.7,
+            "1. Consultation: Our experienced consultants will assess your business objectives and provide tailored guidance on the public company registration process. We'll help you understand the regulatory requirements, compliance obligations, and strategic considerations involved in transitioning to public company status.\n\n2. Documentation: We'll assist you in preparing and filing all necessary documents for public company registration, including Shop act registration (optional), GST registration (optional), EPS and EPFO registration and incorporation forms, and other regulatory filings. Our meticulous attention to detail ensures accuracy and compliance with regulatory standards.\n\n3. Government Filings: Our dedicated team will handle all interactions with government authorities, including the Securities and Exchange Board of India (SEBI) and the Registrar of Companies (ROC). We'll ensure timely submission of documents and adherence to regulatory deadlines, keeping you informed throughout the registration process.\n\n4. Compliance Management: We'll provide ongoing support and assistance to ensure that your public company remains compliant with regulatory requirements, including disclosure obligations, shareholder communications, and corporate governance practices. Our proactive approach helps mitigate risks and maintain stakeholder trust and confidence.",
+        // reviews: [
+        //     {
+        //         rating: 4.6,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        //     {
+        //         rating: 4.9,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        // ],
+        // avgRating: 4.7,
     },
 
     {
         id: "06",
-        productName: "Fllufy Sheep Sofa",
+        productName: "Startup India Registration",
         imgUrl: slider1,
         category: "sofa",
         price: 163,
         shortDesc:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+            "Startup India offers a range of benefits and support initiatives designed to foster innovation, entrepreneurship, and economic growth. By registering your startup with Startup India, you can access a host of incentives, including tax benefits, funding opportunities, and mentorship programs. Additionally, Startup India recognition enhances your credibility and visibility in the startup ecosystem, opening doors to partnerships, investments, and collaborations.",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+            "1. Consultation: Our experienced consultants will assess your startup's eligibility for Startup India registration and provide personalized guidance on the registration process. We'll help you understand the benefits, requirements, and documentation needed to qualify for Startup India recognition. \n\n2. Documentation: We'll assist you in preparing and filing all necessary documents for Startup India registration, including the application form, business plan, and other supporting materials. Our team will ensure that your application meets the eligibility criteria and complies with regulatory standards. \n\n3. Government Filings: Our dedicated team will handle all interactions with government authorities, including the Department for Promotion of Industry and Internal Trade (DPIIT). We'll facilitate the registration process and liaise with government officials to expedite approval and issuance of Startup India recognition.\n\n4. Post-Registration Support: We'll provide ongoing support and assistance to help you maximize the benefits of Startup India recognition. From accessing funding and networking opportunities to navigating regulatory requirements, we'll be with you every step of the way as you grow and scale your startup.",
         reviews: [
             {
                 rating: 4.6,
@@ -644,6 +622,28 @@ export const products = [
             },
         ],
         avgRating: 4.8,
+    },
+    {
+        id: "26",
+        productName: "Rivet Bigelow Modern ",
+        imgUrl: slider2,
+        category: "sofa",
+        price: 253,
+        shortDesc:
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+        description:
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+        reviews: [
+            {
+                rating: 4.8,
+                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            },
+            {
+                rating: 4.8,
+                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            },
+        ],
+        avgRating: 4.7,
     },
 
 ];
