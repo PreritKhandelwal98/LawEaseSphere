@@ -34,7 +34,7 @@ const Footer = () => {
               <h2>Contact Us</h2>
               <ul>
                 <li>Malviya Nagar, Jaipur, Rajasthan </li>
-                <li>Email: csgarimakhandelwal.com</li>
+                <li>Email: laweasesphere@gmail.com</li>
                 <li>Phone: +91 9521 423 185</li>
               </ul>
             </Col>
@@ -45,7 +45,7 @@ const Footer = () => {
     <a className='text-reset fw-bold me-3' href='https://www.linkedin.com/in/garima-khandelwal-01614a156/'>
       <FaLinkedin />
     </a>
-    <a className='text-reset fw-bold me-3' href='https://www.instagram.com/your_instagram_handle/'>
+    <a target ="_blank"className='text-reset fw-bold me-3' href='https://www.instagram.com/laweasesphere'>
       <FaInstagram />
     </a>
     <a className='text-reset fw-bold me-3' href='https://www.youtube.com/your_youtube_channel'>
