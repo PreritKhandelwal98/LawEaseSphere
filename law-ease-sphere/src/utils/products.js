@@ -151,7 +151,7 @@ export const products = [
         productName: "Public Company Registration Services",
         imgUrl: slider4,
         category: "sofa",
-        price: 163,
+        price: 12000,
         shortDesc:
             "Public company registration offers numerous benefits, including access to a broader investor base, enhanced liquidity for shareholders, and increased visibility and credibility in the marketplace. It allows businesses to raise capital more easily and pursue strategic opportunities for growth and expansion.",
         description:
@@ -174,22 +174,22 @@ export const products = [
         productName: "Startup India Registration",
         imgUrl: slider1,
         category: "sofa",
-        price: 163,
+        price: 16000,
         shortDesc:
             "Startup India offers a range of benefits and support initiatives designed to foster innovation, entrepreneurship, and economic growth. By registering your startup with Startup India, you can access a host of incentives, including tax benefits, funding opportunities, and mentorship programs. Additionally, Startup India recognition enhances your credibility and visibility in the startup ecosystem, opening doors to partnerships, investments, and collaborations.",
         description:
             "1. Consultation: Our experienced consultants will assess your startup's eligibility for Startup India registration and provide personalized guidance on the registration process. We'll help you understand the benefits, requirements, and documentation needed to qualify for Startup India recognition. \n\n2. Documentation: We'll assist you in preparing and filing all necessary documents for Startup India registration, including the application form, business plan, and other supporting materials. Our team will ensure that your application meets the eligibility criteria and complies with regulatory standards. \n\n3. Government Filings: Our dedicated team will handle all interactions with government authorities, including the Department for Promotion of Industry and Internal Trade (DPIIT). We'll facilitate the registration process and liaise with government officials to expedite approval and issuance of Startup India recognition.\n\n4. Post-Registration Support: We'll provide ongoing support and assistance to help you maximize the benefits of Startup India recognition. From accessing funding and networking opportunities to navigating regulatory requirements, we'll be with you every step of the way as you grow and scale your startup.",
-        reviews: [
-            {
-                rating: 4.6,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-            {
-                rating: 4.9,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-        ],
-        avgRating: 4.7,
+        // reviews: [
+        //     {
+        //         rating: 4.6,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        //     {
+        //         rating: 4.9,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        // ],
+        // avgRating: 4.7,
     },
     {
         id: "07",
@@ -201,17 +201,17 @@ export const products = [
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
         description:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
-        reviews: [
-            {
-                rating: 4.6,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-            {
-                rating: 4.9,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-        ],
-        avgRating: 4.7,
+        // reviews: [
+        //     {
+        //         rating: 4.6,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        //     {
+        //         rating: 4.9,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        // ],
+        // avgRating: 4.7,
     },
 
     {
@@ -224,17 +224,17 @@ export const products = [
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
         description:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
-        reviews: [
-            {
-                rating: 4.6,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-            {
-                rating: 4.9,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-        ],
-        avgRating: 4.7,
+        // reviews: [
+        //     {
+        //         rating: 4.6,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        //     {
+        //         rating: 4.9,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        // ],
+        // avgRating: 4.7,
     },
 
     {
@@ -247,17 +247,17 @@ export const products = [
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
         description:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
-        reviews: [
-            {
-                rating: 4.6,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-            {
-                rating: 4.9,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-        ],
-        avgRating: 4.7,
+        // reviews: [
+        //     {
+        //         rating: 4.6,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        //     {
+        //         rating: 4.9,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        // ],
+        // avgRating: 4.7,
     },
 
     {
@@ -270,17 +270,17 @@ export const products = [
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
         description:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
-        reviews: [
-            {
-                rating: 4.6,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-            {
-                rating: 4.9,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-        ],
-        avgRating: 4.7,
+        // reviews: [
+        //     {
+        //         rating: 4.6,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        //     {
+        //         rating: 4.9,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        // ],
+        // avgRating: 4.7,
     },
 
     {
@@ -293,17 +293,17 @@ export const products = [
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
         description:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
-        reviews: [
-            {
-                rating: 4.8,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-            {
-                rating: 4.9,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-        ],
-        avgRating: 4.8,
+        // reviews: [
+        //     {
+        //         rating: 4.8,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        //     {
+        //         rating: 4.9,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        // ],
+        // avgRating: 4.8,
     },
     {
         id: "25",
@@ -315,17 +315,17 @@ export const products = [
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
         description:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
-        reviews: [
-            {
-                rating: 4.6,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-            {
-                rating: 4.9,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-        ],
-        avgRating: 4.7,
+        // reviews: [
+        //     {
+        //         rating: 4.6,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        //     {
+        //         rating: 4.9,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        // ],
+        // avgRating: 4.7,
     },
     {
         id: "11",
@@ -360,17 +360,17 @@ export const products = [
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
         description:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
-        reviews: [
-            {
-                rating: 4.8,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-            {
-                rating: 4.9,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-        ],
-        avgRating: 4.8,
+        // reviews: [
+        //     {
+        //         rating: 4.8,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        //     {
+        //         rating: 4.9,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        // ],
+        // avgRating: 4.8,
     },
 
     {
@@ -383,17 +383,17 @@ export const products = [
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
         description:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
-        reviews: [
-            {
-                rating: 4.8,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-            {
-                rating: 4.9,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-        ],
-        avgRating: 4.8,
+        // reviews: [
+        //     {
+        //         rating: 4.8,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        //     {
+        //         rating: 4.9,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        // ],
+        // avgRating: 4.8,
     },
 
     {
@@ -406,17 +406,17 @@ export const products = [
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
         description:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
-        reviews: [
-            {
-                rating: 4.8,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-            {
-                rating: 4.9,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-        ],
-        avgRating: 4.8,
+        // reviews: [
+        //     {
+        //         rating: 4.8,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        //     {
+        //         rating: 4.9,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        // ],
+        // avgRating: 4.8,
     },
 
     {
@@ -452,17 +452,17 @@ export const products = [
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
         description:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
-        reviews: [
-            {
-                rating: 4.8,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-            {
-                rating: 4.9,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-        ],
-        avgRating: 4.8,
+        // reviews: [
+        //     {
+        //         rating: 4.8,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        //     {
+        //         rating: 4.9,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        // ],
+        // avgRating: 4.8,
     },
 
     {
@@ -475,17 +475,17 @@ export const products = [
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
         description:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
-        reviews: [
-            {
-                rating: 4.8,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-            {
-                rating: 4.9,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-        ],
-        avgRating: 4.8,
+        // reviews: [
+        //     {
+        //         rating: 4.8,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        //     {
+        //         rating: 4.9,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        // ],
+        // avgRating: 4.8,
     },
 
     {
@@ -498,17 +498,17 @@ export const products = [
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
         description:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
-        reviews: [
-            {
-                rating: 4.8,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-            {
-                rating: 4.9,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-        ],
-        avgRating: 4.8,
+        // reviews: [
+        //     {
+        //         rating: 4.8,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        //     {
+        //         rating: 4.9,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        // ],
+        // avgRating: 4.8,
     },
 
     {
@@ -521,17 +521,17 @@ export const products = [
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
         description:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
-        reviews: [
-            {
-                rating: 4.8,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-            {
-                rating: 4.9,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-        ],
-        avgRating: 4.8,
+        // reviews: [
+        //     {
+        //         rating: 4.8,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        //     {
+        //         rating: 4.9,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        // ],
+        // avgRating: 4.8,
     },
 
     {
@@ -544,17 +544,17 @@ export const products = [
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
         description:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
-        reviews: [
-            {
-                rating: 4.8,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-            {
-                rating: 4.9,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-        ],
-        avgRating: 4.8,
+        // reviews: [
+        //     {
+        //         rating: 4.8,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        //     {
+        //         rating: 4.9,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        // ],
+        // avgRating: 4.8,
     },
 
     {
@@ -567,17 +567,17 @@ export const products = [
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
         description:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
-        reviews: [
-            {
-                rating: 4.8,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-            {
-                rating: 4.9,
-                text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            },
-        ],
-        avgRating: 4.8,
+        // reviews: [
+        //     {
+        //         rating: 4.8,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        //     {
+        //         rating: 4.9,
+        //         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        //     },
+        // ],
+        // avgRating: 4.8,
     },
     {
         id: "22",
