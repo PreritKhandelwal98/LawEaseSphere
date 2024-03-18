@@ -32,7 +32,7 @@ const Product = () => {
 
   return (
     <Fragment>
-      <Banner title={selectedProduct?.productName} />
+      <Banner title={selectedProduct?.productName} productImage={selectedProduct?.imgUrl} />
       <ProductDetails selectedProduct={selectedProduct} />
       <ProductReviews selectedProduct={selectedProduct} />
       <section className="related-products">
