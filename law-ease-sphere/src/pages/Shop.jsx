@@ -4,7 +4,7 @@ import SearchBar from "../components/SearchBar/SearchBar";
 import { Fragment, useState } from "react";
 import { products } from "../utils/products";
 import ShopList from "../components/ShopList";
-import Banner from "../components/Banner/Banner";
+// import Banner from "../components/Banner/Banner";
 import useWindowScrollToTop from "../hooks/useWindowScrollToTop";
 
 const Shop = () => {
@@ -15,7 +15,7 @@ const Shop = () => {
 
   return (
     <Fragment>
-      <Banner title="product" />
+      {/* <Banner title="Product" /> */}
       <section className="filter-bar">
         <Container className="filter-bar-contianer">
           <Row className="justify-content-center">

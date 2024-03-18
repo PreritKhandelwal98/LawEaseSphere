@@ -1,7 +1,7 @@
 import { Fragment } from "react";
 import Wrapper from "../components/wrapper/Wrapper";
 import Section from "../components/Section";
-import { products, discoutProducts } from "../utils/products";
+import { products } from "../utils/products";
 import SliderHome from "../components/Slider";
 import useWindowScrollToTop from "../hooks/useWindowScrollToTop";
 
@@ -18,7 +18,7 @@ const Home = () => {
       <Section
         title="Our Services"
         bgColor="#f6f9fc"
-        productItems={discoutProducts}
+        productItems={products}
       />
       <Section
         title="More Offering"
