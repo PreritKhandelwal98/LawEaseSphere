@@ -1,39 +1,29 @@
-import { useState } from "react";
 import { Container } from "react-bootstrap";
 import "./product-review.css";
 
 const ProductReviews = ({ selectedProduct }) => {
-  const [listSelected, setListSelected] = useState("desc");
+  // Function to format description text
+  const formatDescription = (description) => {
+    return description.split('\n').map((line, index) => {
+      // Increase font size for numbers
+      if (/^\d+\./.test(line)) {
+        return <p key={index} style={{ fontSize: '1.2em' }}>{line}</p>;
+      } else {
+        return <p key={index}>{line}</p>;
+      }
+    });
+  };
+
   return (
     <section className="product-reviews">
       <Container>
         <ul>
-          <li
-            style={{ color: listSelected === "desc" ? "black" : "#9c9b9b" }}
-            onClick={() => setListSelected("desc")}
-          >
-            Description
-          </li>
-          <li
-            style={{ color: listSelected === "rev" ? "black" : "#9c9b9b" }}
-            onClick={() => setListSelected("rev")}
-          >
-            Reviews ({selectedProduct?.reviews.length})
+          <li>
+            <b style={{ fontSize: 23 }}><u>Description</u></b>
           </li>
         </ul>
-        {listSelected === "desc" ? (
-          <p>{selectedProduct?.description}</p>
-        ) : (
-          <div className="rates">
-            {selectedProduct?.reviews.map((rate) => (
-              <div className="rate-comment" key={rate.rating}>
-                <span>Jhon Doe</span>
-                <span>{rate.rating} (rating)</span>
-                <p>{rate.text}</p>
-              </div>
-            ))}
-          </div>
-        )}
+        {/* Render formatted description */}
+        {formatDescription(selectedProduct?.description)}
       </Container>
     </section>
   );

@@ -63,14 +63,12 @@ export const serviceData = [
 export const products = [
     {
         id: "01",
-        productName: "Partnership Firm Registration Services ",
+        productName: "Partnership Firm Registration Services",
         imgUrl: slider3,
         category: "sofa",
         price: 5000,
-        shortDesc:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
-        description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+        shortDesc: "Registering your partnership firm offers several benefits, including legal recognition, limited liability protection, and easier access to business loans and credit. It also establishes clear guidelines for profit-sharing, decision-making, and dispute resolution among partners",
+        description: "1. Consultation: Our experienced consultants will assess your business needs and recommend the most suitable partnership structure for you.\n\n2. Documentation: We'll prepare and file all necessary documents, including the partnership deed, Registration of Firm under ROF, PAN application, and registration (udhyam, registration,Sanstha aadhar registration), on your behalf.\n\n3. Government Filings: Our team will handle all interactions with government authorities, ensuring compliance with regulatory requirements and deadlines.\n\n4. GST Registration: If required, we'll assist you in obtaining GST registration for your partnership firm, facilitating seamless tax compliance.",
         reviews: [
             {
                 rating: 4.7,
