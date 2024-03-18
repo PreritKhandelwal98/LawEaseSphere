@@ -32,15 +32,14 @@ const Product = () => {
 
   return (
     <Fragment>
-      {/* Pass the product image to the Banner component */}
-      <Banner title={selectedProduct?.productName} productImage={selectedProduct?.imgUrl} />
+      {/* <Banner title={selectedProduct?.productName} productImage={selectedProduct?.imgUrl} /> */}
       <ProductDetails selectedProduct={selectedProduct} />
       <ProductReviews selectedProduct={selectedProduct} />
       <section className="related-products">
-        <Container>
+        {/* <Container>
           <h3>You might also like</h3>
-        </Container>
-        <ShopList productItems={relatedProducts} />
+        </Container> */}
+        {/* <ShopList productItems={relatedProducts} /> */}
       </section>
     </Fragment>
   );
