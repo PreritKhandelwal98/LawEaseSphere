@@ -13,7 +13,6 @@ const ProductCard = ({ productItem }) => {
     <Col md={3} sm={5} xs={10} className="product mtop">
       <img
         loading="lazy"
-        onClick={() => handelClick()}
         src={productItem.imgUrl}
         alt=""
       />
